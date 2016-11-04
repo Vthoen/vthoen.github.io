@@ -11,18 +11,17 @@ email: Vthoen@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<vincethoen>
+  twitter: https://twitter.com/Vincethoen
   #github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<vthoen@gmail.com>
+  linkedin-square: https://nl.linkedin.com/in/vince-t-hoen-b0023a119
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<vthoen@gmail.com>
-  email: /Vthoen@gmail.com
+  email: mailto:Vthoen@gmail.com"
   #flickr:
   #instagram:
   #youtube-square:
-  spotify: Vince 't Hoen
-  steam: Vincethoen
-  playstation network: Vincethoen
+  spotify: https://open.spotify.com/user/vthoen
+  steam: http://steamcommunity.com/profiles/76561198106926306
   #stack-overflow:
   #vimeo:
   #reddit:
