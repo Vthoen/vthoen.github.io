@@ -6,7 +6,7 @@ title: Portfolio
 description: |
   Vince 't Hoen
 owner: Vince 't Hoen # or company name
-first_published: 2012 # if migrating another site, the year of your first publish
+first_published: # if migrating another site, the year of your first publish
 email: Vthoen@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
