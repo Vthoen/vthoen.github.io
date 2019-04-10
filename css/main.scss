@@ -516,7 +516,9 @@ $baseurl: '{{ site.baseurl }}/images';
 			display: block;
 		}
 
-		&.left {
+		
+		
+		/* &.left {
 			float: left;
 			margin: 0 2em 2em 0;
 			top: 0.25em;
@@ -535,7 +537,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			img {
 				width: 100%;
 			}
-		}
+		} 
 
 		&.fit {
 			display: block;
@@ -547,7 +549,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 	}
-
+*/
 /* List */
 
 	ol {
