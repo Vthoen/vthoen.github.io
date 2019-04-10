@@ -509,7 +509,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		border-radius: 3px;
 		border: 0;
 		display: inline-block;
-		position: center;
+		position: relative;
 		
 		img {
 			border-radius: 3px;
